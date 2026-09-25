@@ -1,7 +1,7 @@
-# 💙 Portfólio — Luis Otávio
+# 💜 Portfólio — Luis Otávio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:2196f3&height=180&section=header&text=Luis%20Otávio&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a148c,100:9c27b0&height=180&section=header&text=Luis%20Otávio&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Recrocs">
-    <img src="https://img.shields.io/badge/GitHub-Recrocs-0d47a1?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Recrocs-6a1b9a?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -85,7 +85,7 @@ Aplicação para criação e gerenciamento de notas.
 
 ## 🎨 Características do portfólio
 
-* 💙 Interface moderna em tons de azul
+* 💜 Interface moderna em tons de roxo
 * ✨ Animações e efeitos de interação
 * 📱 Design responsivo
 * 🖥️ Seção de apresentação pessoal
@@ -158,5 +158,5 @@ Meu objetivo é continuar desenvolvendo minhas habilidades em **Desenvolvimento 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:0d47a1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c27b0,100:4a148c&height=100&section=footer"/>
 </p>
